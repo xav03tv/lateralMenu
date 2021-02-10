@@ -1,10 +1,14 @@
 @import "config/variables";
 @import "config/functions";
 @import "config/mixins";
+
 @import "base/typography.scss";
 @import "base/reset.scss";
 @import "base/forms.scss";
+
 @import "objects/buttons.scss";
+
 @import "globals/header.scss";
 @import "globals/footer.scss";
 @import "globals/layout.scss";
+@import "globals/menu.scss";
